@@ -21,4 +21,16 @@ Here are some ideas to get you started:
 
 [![applevalley's GitHub stats](https://github-readme-stats.vercel.app/api?username=applevalley)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:namsy13@gmail.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:namsy13@gmail.com) -->
+
+
+### About me
+- Name : 남현준 / NAM HYEONJUN
+- Email : skatkd7571@naver.com
+- Experience
+  - 2020.07 ~ 2021.06 : SSAFY(삼성 청년 SW 아카데미) 
+- Skills
+  - Language : Python
+  - DB : MySQL
+  - Web Application Framework : Django
+  - DevOps : Git, AWS(EC2)
