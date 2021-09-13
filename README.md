@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - Experience
   - 2020.07 ~ 2021.06 : SSAFY(삼성 청년 SW 아카데미) 
 - Skills
-  - Language : Python
+  - Language : Python, Java
   - DB : MySQL
   - Web Application Framework : Django
   - DevOps : Git
