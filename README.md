@@ -33,4 +33,4 @@ Here are some ideas to get you started:
   - Language : Python, Java
   - DB : MySQL
   - Web Application Framework : Django
-  - DevOps : Git
+  - Others : Git
