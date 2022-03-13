@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Hyeonjun!
 ### About me 
-- Name : 남현준 / Hyeonjun NAM
+- Name : 남현준 / Hyeonjun Nam
 - Email : skatkd7571@naver.com
 - Education
   - 2014.03 ~ 2020.08 : Arabic Interpretation & Translation, HUFS(Hankuk University for Foreign Studies) 
