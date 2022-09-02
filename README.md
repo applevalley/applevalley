@@ -7,7 +7,7 @@
   - 2020.07 ~ 2021.06 : SSAFY(Samsung SW Academy for Youth) 
 - Carrer
   - 2022.01 ~ present : Junior Frontend Developer at KDS (KB Data Systems)
-- 🌱 I’m currently learning <b>JavaScript, Vue.js</b>
+- 🌱 I’m currently learning <b>JavaScript, TypeScript, Vue.js, React.js</b>
 
 <br>
 
@@ -44,6 +44,9 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
 </p>
 
 <h3 align="left">Frontend Development</h3>
@@ -51,12 +54,15 @@ Here are some ideas to get you started:
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue.js" width="40" height="40"/> 
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react.js" width="40" height="40"/> 
+  </a>
 </p>    
 
 <h3 align="left">Backend Development</h3>
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   </a>
 </p>        
 
