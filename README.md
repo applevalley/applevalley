@@ -6,8 +6,8 @@
   - 2014.03 ~ 2020.08 : Arabic Interpretation & Translation, HUFS(Hankuk University for Foreign Studies) 
   - 2020.07 ~ 2021.06 : SSAFY(Samsung SW Academy for Youth) 
 - Carrer
-  - 2022.01 ~ present : Junior Frontend Developer at KDS (KB Data Systems)
-- 🌱 I’m currently learning <b>JavaScript, TypeScript, Vue.js, React.js</b>
+  - 2022.01 ~ present : Junior Developer at KDS (KB Data Systems)
+- 🌱 I’m currently learning <b>Java, JSP, JQuery, JavaScript</b>
 
 <br>
 
