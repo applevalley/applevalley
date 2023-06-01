@@ -7,7 +7,7 @@
   - 2020.07 ~ 2021.06 : SSAFY(Samsung SW Academy for Youth) 
 - Carrer
   - 2022.01 ~ present : Junior Developer at KDS (KB Data Systems)
-- 🌱 I’m currently learning <b>Java, JSP, JQuery, JavaScript</b>
+- 🌱 I’m currently learning <b>JavaScript, TypeScript, React.js</b>
 
 <br>
 
