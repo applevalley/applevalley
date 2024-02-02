@@ -5,10 +5,11 @@
 - Education
   - 2014.03 ~ 2020.08 : Arabic Interpretation & Translation, HUFS(Hankuk University for Foreign Studies) 
   - 2020.07 ~ 2021.06 : SSAFY(Samsung SW Academy for Youth)
-  - 2023.07 ~ present : Fastcampus x Yanolja Frontend Tech School 
+  - 2023.07 ~ 2024.01 : Fastcampus x Yanolja Frontend Tech School 
 - Career
   - 2022.01 ~ 2023.06 : Junior Developer at KDS (KB Data Systems)
-- 🌱 I’m currently learning <b>JavaScript, TypeScript, React.js</b>
+  - 2024.02 ~ present : Frontend Developer at eightmeal
+- 🌱 I’m currently learning <b>JavaScript, TypeScript, React.js, Next.js</b>
 
 <br>
 
@@ -46,12 +47,19 @@ Here are some ideas to get you started:
 
   ![vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
+  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+  <br/>
   ![scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  ![tailwind-css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 <h3 align="left">Backend Development</h3>
 
   ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
        
 
 <h3 align="left">Databases</h3>
