@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Hyeonjun!
+
 ### About me 
 - Name : 남현준 / Hyeonjun Nam
 - Email : skatkd7571@naver.com
@@ -6,9 +7,10 @@
   - 2014.03 ~ 2020.08 : Arabic Interpretation & Translation, HUFS(Hankuk University for Foreign Studies) 
   - 2020.07 ~ 2021.06 : SSAFY(Samsung SW Academy for Youth)
   - 2023.07 ~ 2024.01 : Fastcampus x Yanolja Frontend Tech School 
-- Career
-  - 2022.01 ~ 2023.06 : Junior Developer at KDS (KB Data Systems)
-  - 2024.02 ~ present : Frontend Developer at eightmeal
+- Experience
+  - 2022.01 ~ 2023.06 : KDS(KB Data Systems), Seoul - Junior Software Developer
+  - 2024.02 ~ 2024.05 : eightmeals, Seoul - Frontend Developer
+  - 2024.05 ~ present : itall, Seoul - Frontend Developer
 - 🌱 I’m currently learning <b>JavaScript, TypeScript, React.js, Next.js</b>
 
 <br>
