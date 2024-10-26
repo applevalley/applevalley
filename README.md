@@ -10,7 +10,7 @@
 - Experience
   - 2022.01 ~ 2023.06 : KDS(KB Data Systems), Seoul - Junior Software Developer
   - 2024.02 ~ 2024.05 : eightmeals, Seoul - Frontend Developer
-  - 2024.05 ~ present : itall, Seoul - Frontend Developer
+  - 2024.05 ~ present : AID, Seoul - Frontend Developer
 - 🌱 I’m currently learning <b>JavaScript, TypeScript, React.js, Next.js</b>
 
 <br>
