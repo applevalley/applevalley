@@ -10,7 +10,7 @@
 - Experience
   - 2022.01 ~ 2023.06 : KDS(KB Data Systems), Seoul - Junior Software Developer
   - 2024.02 ~ 2024.05 : eightmeals, Seoul - Frontend Developer
-  - 2024.05 ~ present : AID, Seoul - Frontend Developer
+  - 2024.05 ~ 2024.12 : AID, Seoul - Frontend Developer
 - 🌱 I’m currently learning <b>JavaScript, TypeScript, React.js, Next.js</b>
 
 <br>
@@ -51,18 +51,12 @@ Here are some ideas to get you started:
   ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
+  ![Zustand](https://img.shields.io/badge/zustand-orange?style=for-the-badge&logo=zustand&logoColor=white)
   ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
   <br/>
   ![scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![tailwind-css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-<h3 align="left">Backend Development</h3>
-
-  ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-       
 
 <h3 align="left">Databases</h3>
 
