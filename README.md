@@ -11,7 +11,8 @@
   - 2022.01 ~ 2023.06 : KDS(KB Data Systems), Seoul - Junior Software Developer
   - 2024.02 ~ 2024.05 : eightmeals, Seoul - Frontend Developer
   - 2024.05 ~ 2024.12 : AID, Seoul - Frontend Developer
-- 🌱 I’m currently learning <b>JavaScript, TypeScript, React.js, Next.js</b>
+  - 2025.02 ~ : Openmile, Seoul - Frontend Developer
+- 🌱 I’m currently learning <b>React Native, Kotlin</b>
 
 <br>
 
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 <h3 align="left">Languages</h3>
 
   ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
   ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
